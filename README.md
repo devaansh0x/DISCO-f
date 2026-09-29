@@ -110,7 +110,7 @@ Execution time is also reported in **microseconds** for readability.
 
 ## ML Approach
 
-- **Model:** Linear Regression (simple and easy to explain in a viva).
+- **Model:** Linear Regression. 
 - **Features:** instruction count, CPI, cache hit rate, clock frequency.
 - **Target:** execution time (microseconds).
 - **Validation:** train/test split with **Mean Absolute Error (MAE)** and **R^2**.
