@@ -242,8 +242,18 @@ STORE R4, 100
 
 ## Mentor
 
-- _To be filled in by the team._
+- Anand Kumar 
 
-## Team Members and Contribution
+## Team Members
 
-- _To be filled in by the team._
+| Team Member | Role | Key Contributions |
+|---|---|---|
+| **Devaansh Awasthi** | **Team Leader & System Architect** | Designed the overall system architecture and workflow; developed the core CPU simulator; integrated instruction execution, memory, cache, performance analysis, and AI modules; integrated the Streamlit interface; managed the GitHub repository and overall project coordination. |
+| **Anvesha Sharan** | **Documentation & System Analysis** | Worked on technical documentation, problem statement, objectives, methodology, system workflow, COA concepts, and explanation of the AI-based approach; contributed to preparation and organization of the final project report. |
+| **Medha** | **Performance Modelling & Experimental Analysis** | Analysed the effect of different CPU parameters on system performance; contributed to designing performance scenarios involving instruction workloads, cache behaviour, and clock frequency; studied relationships between CPI, cache hit rate, clock frequency, and execution time; contributed to interpretation of simulation and prediction results. |
+| **Anushka** | **AI/ML & Dataset Development** | Contributed to simulation dataset preparation, feature selection, and the AI-based performance prediction workflow; worked with parameters such as instruction count, CPI, cache hit rate, and clock frequency; contributed to Linear Regression training and evaluation using MAE and R². |
+| **Prashashti** | **Testing, Validation & Results Analysis** | Designed and executed test cases using different workloads and configurations; validated instruction execution, cache behaviour, cycle counts, CPI, and execution time; tested the simulation-to-prediction pipeline; contributed to verification and analysis of generated results. |
+
+## Mentor
+
+**Anand Kumar**
